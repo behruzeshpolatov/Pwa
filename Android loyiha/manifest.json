@@ -1,0 +1,42 @@
+{
+  "name": "Color Picker Behruz Eshpo'latov",
+  "short_name": "CP BE",
+  "description": "This is test app",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "orientation": "portrait-primary",
+  "icons": [
+        {
+          "src": "/images/icons/72-72.png",
+          "type": "image/png",
+          "sizes": "72x72",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "/images/icons/96-96.png",
+          "type": "image/png",
+          "sizes": "96x96",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "/images/icons/144-144.png",
+          "type": "image/png",
+          "sizes": "144x144",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "/images/icons/192-192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "/images/icons/512-512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "any maskable"
+        }
+   ]
+}
